@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Screens</string>
     <string name="screenButton">Button</string>
+    <string name="textInput">Name</string>
 </resources>
